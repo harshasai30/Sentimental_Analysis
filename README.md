@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 
 ## Overview
-This project performs **Sentiment Analysis** on tweets to classify them as **positive, negative, or neutral**. The analysis is done using **Natural Language Processing (NLP)** techniques and Machine Learning models.
+This project performs "Sentiment Analysis" on tweets to classify them as "positive","negative", or "neutral". The analysis is done using ""Natural Language Processing (NLP)"" techniques and Machine Learning models.
 
 ## Features
 - Preprocessing of raw Twitter data (removing stopwords, URLs, mentions, etc.)
@@ -10,15 +10,15 @@ This project performs **Sentiment Analysis** on tweets to classify them as **pos
 - Model evaluation and performance metrics
 
 ## Technologies Used
-- **Python**
-- **NLTK** (Natural Language Toolkit)
-- **Scikit-Learn**
-- **Pandas & NumPy**
-- **Matplotlib & Seaborn**
-- **Jupyter Notebook**
+- Python
+- NLTK (Natural Language Toolkit)
+- Scikit-Learn
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Jupyter Notebook
 
 ## Dataset
-The dataset consists of tweets collected from **Twitter API** or publicly available datasets. It includes labeled sentiments (**positive, negative, neutral**).
+The dataset consists of tweets collected from ""Twitter API""or publicly available datasets. It includes labeled sentiments ("positive, negative, neutral").
 
 ## Installation
 ### Prerequisites
